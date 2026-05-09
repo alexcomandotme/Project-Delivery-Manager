@@ -13,4 +13,4 @@ Amsterdam → Copenhagen → Bucharest
 📄 **[View CV](https://github.com/alexcomandotme/Project-Delivery-Manager/blob/main/Alex_Coman_Implementation_Manager.pdf)**
 
 📬 hi@alexcoman.me  
-🔗 [linkedin.com/in/alexcoman](https://linkedin.com/in/alexcomandotme)
+🔗 [linkedin.com/in/alexcoman(dot)me](https://linkedin.com/in/alexcomandotme)
