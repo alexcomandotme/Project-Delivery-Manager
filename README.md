@@ -1,9 +1,16 @@
-# Alex Coman 
-Implementation & Delivery Manager
+# Alex Coman
+### Implementation & Delivery Manager
 
-9+ years of international experience in driving digital transformation and platform rollouts. 
-I bridge the gap between business strategy and technical execution for global brands.
+9+ years delivering digital initiatives across EU markets.  
+Bridging business strategy and technical execution for global brands.
 
-### 📄 Resume
-[Click here to view (PDF)](./Alex_Coman_CV.pdf)
+```
+Amsterdam → Copenhagen → Bucharest
+```
 
+---
+
+📄 **[View CV](https://github.com/alexcomandotme/Project-Delivery-Manager/blob/main/Alex_Coman_Implementation_Manager.pdf)**
+
+📬 hi@alexcoman.me  
+🔗 [linkedin.com/in/alexcoman](https://linkedin.com/in/alexcomandotme)
